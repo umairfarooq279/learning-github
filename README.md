@@ -14,3 +14,6 @@ This is my first public repository for learning GitHub and exploring the Insight
 - GitHub
 
 ## 📁 Project Structure
+learning-github/
+├── test.py # Simple test script
+└── README.md # This file
