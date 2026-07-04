@@ -17,3 +17,5 @@ This is my first public repository for learning GitHub and exploring the Insight
 learning-github/
 ├── test.py # Simple test script
 └── README.md # This file
+
+Example
