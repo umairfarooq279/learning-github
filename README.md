@@ -19,3 +19,5 @@ learning-github/
 └── README.md # This file
 
 Example
+
+Conflicts 1
