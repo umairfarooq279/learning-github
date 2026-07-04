@@ -1,0 +1,108 @@
+# ============================================
+# Python / General
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# ============================================
+# Datasets (CRITICAL for Computer Vision!)
+# ============================================
+data/
+datasets/
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.hdf5
+*.lmdb
+*.tfrecord
+
+# ============================================
+# Model Checkpoints (CRITICAL!)
+# ============================================
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.hdf5
+*.pb
+*.onnx
+*.tflite
+*.model
+*.weights
+*.bin
+checkpoints/
+models/
+*.safetensors
+
+# ============================================
+# IDE / Editor
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.code-workspace
+
+# ============================================
+# Jupyter Notebooks
+# ============================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ============================================
+# Logs and Outputs
+# ============================================
+logs/
+*.log
+outputs/
+runs/
+wandb/
+tensorboard/
+*.out
+*.err
+
+# ============================================
+# System / OS
+# ============================================
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ============================================
+# Secret / Sensitive
+# ============================================
+*.env
+*.key
+*.pem
+config.local.yaml
+secrets.yaml
+
+# ============================================
+# PyTorch / Deep Learning specific
+# ============================================
+*.dill
+*.pickle
+*.pkl
+lightning_logs/
+mlruns/
+
+# ============================================
+# Build / Distribution
+# ============================================
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
