@@ -20,4 +20,4 @@ learning-github/
 
 Example
 
-Conflicts 1
+conflict merged
