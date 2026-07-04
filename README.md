@@ -20,4 +20,6 @@ learning-github/
 
 Example
 
-conflict merged
+conflict merged 
+ 
+new change for stage
