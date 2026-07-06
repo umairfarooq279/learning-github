@@ -24,4 +24,12 @@ conflict merged
  
 new change for stage
 
-## 🧪 This is my first experiment on a branch!
+## 1 🧪 This is my first experiment on a branch!
+
+## 2 🔬 Experiment: Pull Request Practice
+
+This is a test PR (Pull Request) to learn how to collaborate with my senior.
+
+### Changes
+- Added this section to practice PR (Pull Request) workflow
+- Next step: Open a Pull Request on GitHub
